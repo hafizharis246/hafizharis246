@@ -1,11 +1,6 @@
 # 👋 Hi, I'm Hafiz Haris Mehmood
 
-**Data Science & Machine Learning Enthusiast** | Computer Science Student
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hafiz-haris-mehmood/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:harismehmood948@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/haris246/)
-[![Devpost](https://img.shields.io/badge/Devpost-Hackathons-purple?style=flat&logo=devpost)](https://devpost.com/harismehmood948)
+A final-year Computer Science student, and a graduate aspirant actively seeking opportunities for the Fall 2026 intake
 
 ---
 
