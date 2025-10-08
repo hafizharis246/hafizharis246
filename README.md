@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hafiz Haris Mehmood
 
-A final-year Computer Science student, and a graduate aspirant actively seeking opportunities for the Fall 2026 intake
+A final-year Computer Science student and a graduate aspirant actively seeking opportunities for the Fall 2026 intake
 
 ---
 
@@ -8,10 +8,7 @@ A final-year Computer Science student, and a graduate aspirant actively seeking 
 
 **Bachelor of Science in Computer Science**  
 *Government College University Faisalabad* | Oct 2022 - Present  
-**CGPA**: 3.62/4.00
-
-**Relevant Coursework:** Artificial Intelligence, Machine Learning, Database Systems, Data Mining Fundamentals, Data Visualization, Regression Analysis, Parallel & Distributed Computing, Computer Networks, Operating Systems, Data Structures & Algorithms
-
+**CGPA**: 3.62/4.00 
 ---
 
 ## 🏆 Achievements & Awards
@@ -25,15 +22,21 @@ A final-year Computer Science student, and a graduate aspirant actively seeking 
 
 ---
 
+
+## 👨‍🏫 Volunteer Teaching
+
+### Trainer and Moderator
+**iCodeGuru, Silicon Valley, USA** | Remote | Jan 2025 - Present
+
+- Delivered Python Programming lectures to underprivileged students
+- Taught Data Structures & Algorithms (DSA) with LeetCode focus
+- [📺 Watch Lectures](https://www.youtube.com/playlist?list=PLiVs-mD2VKVeMDRny9j9mHZWDbDZcX1nK)
+
+---
+
 ## 💼 Work Experience
 
-### Data Science Intern
-**SAIKET SYSTEMS** | Remote | Feb 2025 - May 2025  
-[📄 Internship Letter](https://drive.google.com/file/d/1O7aqjvKeSmnNFOsyrCq9MbMcGKWeBrvN/view?usp=drive_link)
-
-- Preprocessed and analyzed data, feature engineering, and performed EDA to improve ML model performance
-- Developed and evaluated ML models and optimized their model accuracy
-- Created interactive Power BI dashboards to visualize key metrics, providing actionable insights to improve business operations and strategic planning
+- Data Science Intern at SAIKET SYSTEMS (Feb 2025 - May 2025)
 
 ---
 
@@ -72,45 +75,6 @@ A final-year Computer Science student, and a graduate aspirant actively seeking 
 
 ---
 
-## 📊 GitHub Stats
-
-![Haris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafizharis246&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizharis246&layout=compact&theme=radical)
-
----
-
-## 🔬 Featured Projects
-
-### 🦠 Malaria Forecasting using ARIMA Model
-[![View Code](https://img.shields.io/badge/View-Code-success?style=for-the-badge)](https://github.com/hafizharis246/arima_analysis_of_malarial_project)
-
-- Cleaned and merged malaria case data with environmental metrics (temperature, humidity, rainfall)
-- Applied ARIMA and seasonal analysis to forecast malaria incidence trends
-- Identified climate-disease correlations for predictive public health insights
-
-**Tech Stack:** `Pandas` `NumPy` `Matplotlib` `Seaborn` `Statsmodels` `pmdarima`
-
-### 🩺 Thyroid Disease Recurrence Classifier
-[![View Code](https://img.shields.io/badge/View-Code-success?style=for-the-badge)](https://github.com/hafizharis246/thyroid_disease_recurrence_classifier)
-
-- Built AI system to monitor and manage critical resources in real-time
-- Implemented survival prediction and emergency alert mechanisms
-- Targeted space missions and disaster relief with real-world impact
-
-**Tech Stack:** `Python` `Scikit-Learn` `Pandas` `NumPy`
-
-### 📧 Email Spam Classifier
-[![View Code](https://img.shields.io/badge/View-Code-success?style=for-the-badge)](https://github.com/hafizharis246/Email-Spam-Classifier-using-Naive-Bayes)
-
-- Built ML model to classify emails as spam/ham using text preprocessing and TF-IDF
-- Applied NLP techniques (tokenization, stemming, stop word removal)
-- Achieved high precision with Multinomial Naive Bayes
-
-**Tech Stack:** `Python` `Streamlit` `NLP` `Machine Learning`
-
----
-
 ## 📜 Certifications
 
 | Certification | Issuer | Links |
@@ -120,16 +84,6 @@ A final-year Computer Science student, and a graduate aspirant actively seeking 
 
 ---
 
-## 👨‍🏫 Volunteer Teaching
-
-### Trainer and Moderator
-**iCodeGuru, Silicon Valley, USA** | Remote | Jan 2025 - Present
-
-- Delivered Python Programming lectures to underprivileged students
-- Taught Data Structures & Algorithms (DSA) with LeetCode focus
-- [📺 Watch Lectures](https://www.youtube.com/playlist?list=PLiVs-mD2VKVeMDRny9j9mHZWDbDZcX1nK)
-
----
 
 ## 📫 Let's Connect!
 
