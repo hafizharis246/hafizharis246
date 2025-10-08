@@ -90,9 +90,7 @@ A final-year Computer Science student and a graduate aspirant actively seeking o
 - **LinkedIn**: [hafiz-haris-mehmood](https://www.linkedin.com/in/hafiz-haris-mehmood/)
 - **Email**: [harismehmood948@gmail.com](mailto:harismehmood948@gmail.com)
 - **GitHub**: [hafizharis246](https://github.com/hafizharis246)
-- **LeetCode**: [haris246](https://leetcode.com/u/haris246/)
-- **Portfolio**: [Your Portfolio Link] <!-- Add your portfolio website when you have one -->
+- **Portfolio**: [https://hafizharis246.github.io/] <!-- Add your portfolio website when you have one -->
 
 ---
 
-⭐ **Fun Fact**: I'm actively seeking opportunities for Fall 2026 intake as a graduate student in Data Science/Machine Learning!
