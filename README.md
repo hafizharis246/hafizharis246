@@ -16,7 +16,6 @@ A final-year Computer Science student and a graduate aspirant actively seeking o
 | Achievement | Details |
 |-------------|---------|
 | **🏅 Harvard University CS50x Puzzle Day Winner** | [Certificate](https://certificates.cs50.io/e48228e2-db86-4878-abbe-e0c5b1d2207c.pdf?size=letter) - Ranked among top 0.03% teams worldwide (9/9 score) |
-| **📊 IELTS** | [Achieved 6.5 Bands](https://drive.google.com/file/d/11Q9cLr_QQWooRWHzVXV6QJhvTwrFTZFp/view) - CEFR B2 Proficiency Level |
 | **💻 Presidential Youth Laptop Winner** | Awarded to top 1% of students nationwide |
 | **🚀 Devpost Hackathons** | [Active Participant](https://devpost.com/harismehmood948) in international hackathons |
 
